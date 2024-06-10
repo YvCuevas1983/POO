@@ -1,6 +1,4 @@
 
-
-
 class Pokemon:
 
     def __init__(self, nombre, tipo, ataque, defensa, vida):
